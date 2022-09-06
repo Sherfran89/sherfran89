@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Ajax, React, JQwery.**
+- 🌱 I’m currently learning **React, Nodejs.**
 
 - 👯 I’m looking to collaborate on **Projects**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Tecnology](Tecnology)
 
-- 💬 Ask me about **html, css, javascript**
+- 💬 Ask me about **html, css, javascript, Git**
 
 - 📫 How to reach me **hernanfrancini89@gmail.com**
 
